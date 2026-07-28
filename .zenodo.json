@@ -1,0 +1,19 @@
+{
+  "title": "RMT and Applications in Portfolio Management",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc0-1.0",
+  "creators": [
+    {
+      "name": "Fleming, Canon",
+      "affiliation": "University of Central Florida"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Chen, Martin",
+      "affiliation": "Stevens Institute of Technology",
+      "type": "ProjectMember"
+    }
+  ]
+}
